@@ -1,6 +1,7 @@
 # The comprehensive catalog of C++ books
 
 ## Table of content
+BOOK LIST
 
 1. [Table of content](#table-of-content)
 2. [Intro: iterating over C++ books](#intro-iterating-over-c-books)
